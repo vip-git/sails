@@ -1,4 +1,5 @@
 <application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
